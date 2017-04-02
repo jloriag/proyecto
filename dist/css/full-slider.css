@@ -30,3 +30,11 @@
     background-size: cover;
     -o-background-size: cover;
 }
+
+.Product_description {
+    margin: 15px;
+}
+
+.Product_description:last-child {
+    text-align: center;
+}
