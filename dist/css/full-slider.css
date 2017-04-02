@@ -35,6 +35,10 @@
     margin: 15px;
 }
 
-.Product_description:last-child {
+.center {
     text-align: center;
+}
+
+.carousel-indicators, .carousel-caption {
+    top: 0;
 }
