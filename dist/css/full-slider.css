@@ -42,3 +42,7 @@
 .carousel-indicators, .carousel-caption {
     top: 0;
 }
+
+.content-product > *{
+    margin-top: 15px;
+}
