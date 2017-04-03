@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-#myCarouselIndex {
+.carousel-index {
     width: 70%;
     margin: 0 15%;
 }
